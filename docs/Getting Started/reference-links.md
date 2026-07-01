@@ -1,7 +1,7 @@
 ---
 title: Reference Links
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
