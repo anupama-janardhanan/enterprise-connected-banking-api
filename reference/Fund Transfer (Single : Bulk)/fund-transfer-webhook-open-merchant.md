@@ -1,7 +1,7 @@
 ---
 title: Fund Transfer Webhook (Open → Merchant)
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
