@@ -1,7 +1,7 @@
 ---
 title: List All Bank Accounts
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
