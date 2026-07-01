@@ -1,7 +1,7 @@
 ---
 title: List Beneficiaries
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
