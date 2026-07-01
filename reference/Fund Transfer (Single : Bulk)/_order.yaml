@@ -1,3 +1,4 @@
 - fund-transfer-initiate-single-bulk
 - fund-transfer-submit
 - fund-transfer-webhook-open-merchant
+- get-fund-transfer-status
