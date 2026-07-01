@@ -1,7 +1,7 @@
 ---
 title: List HDFC Statements by request_id
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
