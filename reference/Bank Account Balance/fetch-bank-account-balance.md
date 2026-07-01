@@ -1,7 +1,7 @@
 ---
 title: Fetch Bank Account Balance
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
