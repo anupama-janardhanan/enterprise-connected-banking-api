@@ -1,7 +1,7 @@
 ---
 title: Integration Pre-requisites
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
