@@ -1,5 +1,5 @@
 ---
-title: '# Connected Banking Enterprise APIs — Integration Guide'
+title: Connected Banking Enterprise APIs — Integration Guide
 hidden: false
 ---
 **Version 1.2** — Updated AXIS Bank NFC (Neo for Corporates) support: AXIS CIB accounts no longer require beneficiary pre-registration; vendor details are passed directly in the fund transfer request. Beneficiary management remains mandatory for AXIS RIB accounts.
