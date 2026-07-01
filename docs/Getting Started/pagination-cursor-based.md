@@ -1,7 +1,7 @@
 ---
 title: Pagination (cursor-based)
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
