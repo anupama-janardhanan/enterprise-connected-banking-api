@@ -1,7 +1,7 @@
 ---
 title: Initiate New Beneficiary Addition (Single)
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
