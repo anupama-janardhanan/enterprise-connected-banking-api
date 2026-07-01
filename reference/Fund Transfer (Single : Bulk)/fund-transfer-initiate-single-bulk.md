@@ -1,7 +1,7 @@
 ---
 title: Fund Transfer Initiate (Single / Bulk
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
