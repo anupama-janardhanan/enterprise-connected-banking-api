@@ -4,3 +4,4 @@
 - environments-base-url
 - authentication
 - common-response-envelope
+- pagination-cursor-based
